@@ -21,7 +21,7 @@ namespace CheckServersForLastInstalledUpdates
     class Program
     {
         //Sets Debug and Error Log directory and number of servers
-        //to test with debug. 
+        //to test with debug enabled. 
         static bool debug = false;
         static string output = "";
         static string debugDir = @"C:\temp\";
